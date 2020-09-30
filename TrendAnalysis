@@ -1,0 +1,16 @@
+# pandas-challenge
+
+Trends of Heroes of Pymoli by Garrett Watkins
+
+1. The most popular item and the most profitable item was "Final Critic", item ID 92. It was $4.61 to purchase, and was bought 13 times for
+   a total purchase value of $59.99. "Final Critic" must have provided an impressive in-game advantage, or was an appealing item to look at,
+   as it was above average for cost per item.
+
+2. The two largest age groups were 15-19 and 20-24, which could be expected, as based on item names, the game appears to have a graphic, 
+   violent aspect, and those over the age of 25 don't play too many videogames. The game seems complicated and detailed, so it probably
+   would not appeal to younger kids anyway. The over all sample appears to follow a trend that could be expected in a population. 15-19 
+   year olds and 20-24 year olds make up over 60% of the sample size.
+   
+3. Average price per purchase did not differ much among age groups. The range of the average purchase price of age groups was .$45, which
+   isn't much considering the range of item cost is $3.99. Despite age, each person purchased relatively close in price items. 
+   
